@@ -1,6 +1,6 @@
 Name     : jdk-scalatest-maven-plugin
 Version  : 1.0
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/scalatest/scalatest-maven-plugin/1.0/scalatest-maven-plugin-1.0.jar
 Source0  : http://repo2.maven.org/maven2/org/scalatest/scalatest-maven-plugin/1.0/scalatest-maven-plugin-1.0.jar
 Source1  : http://repo2.maven.org/maven2/org/scalatest/scalatest-maven-plugin/1.0/scalatest-maven-plugin-1.0.pom
